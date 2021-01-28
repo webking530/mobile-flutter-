@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitemos</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">660886487983366</string>
+    <!--
+      Replace "000000000000" with your Facebook App ID here.
+      **NOTE**: The scheme needs to start with `fb` and then your ID.
+    -->
+    <string name="fb_login_protocol_scheme">fb660886487983366</string>
+    <string name="server_client_id">870050220403-qbdvttmg8rs8frn1ert6pj2heg541r6j.apps.googleusercontent.com</string>
+</resources>
