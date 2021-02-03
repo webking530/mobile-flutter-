@@ -1,0 +1,4 @@
+#Thu Sep 24 12:02:52 VLAT 2020
+base.0=D\:\\Fitemos_New\\fitemos\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
